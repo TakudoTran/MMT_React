@@ -1,0 +1,6 @@
+App.js sẽ chạy component InputFrom.js
+trong InputFrom.js có component con SimpleForm chứa <input>
+
+SimpleForm có state fullName: ""
+
+khi gõ text vào input , onClick lắng nghe event và lấy value trong input gán cho thẻ <p>

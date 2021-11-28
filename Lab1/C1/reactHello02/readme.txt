@@ -1,0 +1,1 @@
+chay file index.html (open with live server)
